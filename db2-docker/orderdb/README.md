@@ -2,7 +2,7 @@
 
 
 #Clone the workshop git repo
-'''
+```
 git clone https://github.com/IBMTechSales/openshift-workshop-was
 ```
 
